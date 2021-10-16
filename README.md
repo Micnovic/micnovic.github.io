@@ -1,2 +1,3 @@
-# micnovic.github.io
+# Gleb Micnovic
+## CGI artist
 CV
