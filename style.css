@@ -1,10 +1,6 @@
 body {font-family: sans-serif;}
 
 #footnote {
-  position: relative;
-}
-
-#footnote-content {
   position: fixed;
   bottom: 0;
 }
